@@ -1,11 +1,11 @@
 - Hello! Welcome to my page.
 - Currently in a fullstack bootcamp program that will be finished this month.
 - Open to work and collaborate on projects.
-- Working to become better at...
-- JavaScript
-- Python
-- CSS/HTML
-- React
-- MongoDB
-- SQL
-- NodeJS
+- Working to become better at...  
+  - JavaScript
+  - Python
+  - CSS/HTML
+  - React
+  - MongoDB
+  - SQL
+  - NodeJS
