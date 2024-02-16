@@ -1,5 +1,5 @@
 - Hello! Welcome to my page.
-- Currently in a fullstack bootcamp program that will be finished this month.
+- Recent graduate of a fullstack bootcamp program.
 - Open to work and collaborate on projects.
 - Working to become better at...  
   - JavaScript
