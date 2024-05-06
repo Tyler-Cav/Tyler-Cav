@@ -9,3 +9,6 @@
   - MongoDB
   - SQL
   - NodeJS
+- Check out some of the other projects I've worked on!
+  - https://rhemlock7.github.io/avenger-initiative/
+  - https://reaction-simulator.netlify.app/
