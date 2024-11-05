@@ -1,13 +1,14 @@
-- Hello! Welcome to my page.
-- Recent graduate of a fullstack bootcamp program.
-- Open to work and collaborate on projects.
-- Working to become better at...  
-  - JavaScript
-  - Python
-  - CSS/HTML
+- Welcome to my Github!
+- University of Penn Fullstack Bootcamp Program --> Software Engineer Intern
+- Current Tools I'm Working With  
+  - Typescript/Javascript
+  - Java
+  - Postgres SQL
   - React
+  - CSS/HTML
+- Additional Tech I've Previously Worked With
+  - Python
   - MongoDB
-  - SQL
   - NodeJS
 - Check out some of the other projects I've worked on!
   - https://rhemlock7.github.io/avenger-initiative/
