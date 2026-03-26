@@ -1,15 +1,14 @@
 - Welcome to my Github!
-- University of Penn Fullstack Bootcamp Program --> Software Engineer Intern
+- University of Penn Fullstack Bootcamp Program --> Software Engineer Intern --> Frontend Developer
 - Current Tools I'm Working With  
   - Typescript/Javascript
-  - Java
-  - Postgres SQL
-  - React
-  - CSS/HTML
+  - Angular
+  - SCSS/SASS/CSS
+  - -RxJS
 - Additional Tech I've Previously Worked With
   - Python
+  - Java
+  - React
   - MongoDB
   - NodeJS
-- Check out some of the other projects I've worked on!
-  - https://rhemlock7.github.io/avenger-initiative/
-  - https://reaction-simulator.netlify.app/
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyler-Cav)](https://github.com/anuraghazra/github-readme-stats)
