@@ -4,7 +4,7 @@
   - Typescript/Javascript
   - Angular
   - SCSS/SASS/CSS
-  - -RxJS
+  - RxJS
 - Additional Tech I've Previously Worked With
   - Python
   - Java
