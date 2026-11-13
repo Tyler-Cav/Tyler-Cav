@@ -11,4 +11,3 @@
   - React
   - MongoDB
   - NodeJS
-## Me on Github
